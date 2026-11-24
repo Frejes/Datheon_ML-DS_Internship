@@ -1,27 +1,3 @@
-# Machine Learning Assignment: Tasks 1 to 4
-
-
-## Repository Structure
-
-```
-.
-├── README.md
-├── iris.ipynb        # Task 1: Multi-class classification (Iris)
-├── task2.ipynb       # Task 2: Housing price regression (OLS / Ridge / Lasso)
-├── Task3.ipynb       # Task 3: Customer churn (Random Forest / XGBoost)
-└── Task4.ipynb       # Task 4: NLP sentiment classification (TF-IDF)
-```
-
-## Tasks at a Glance
-
-| Task | Problem | Dataset | Models | Key Metric |
-|------|---------|---------|--------|------------|
-| 1 | Multi-class classification | Iris | Logistic Regression, Decision Tree | Accuracy, precision, recall, F1 |
-| 2 | Housing price prediction | California Housing | OLS, Ridge, Lasso | RMSE, MAE, R² |
-| 3 | Customer churn (imbalanced) | Telco Customer Churn | Random Forest, XGBoost | ROC-AUC (target > 0.80) |
-| 4 | Sentiment analysis | IMDB 50K reviews | Multinomial NB, Logistic Regression | Accuracy |
-
----
 
 ## Task 1: Multi-Class Benchmark Classification Pipeline
 
